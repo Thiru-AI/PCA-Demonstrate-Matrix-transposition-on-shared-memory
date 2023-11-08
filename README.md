@@ -18,8 +18,8 @@ Introduce the main function, in the main method set up the device ,array size an
 Save and execute the program.
 ### Program:
 ```
-DEVELOPED BY : ANISH M J
-REGISTER NO : 212221230005
+DEVELOPED BY : Thirugnanamoorthi G
+REGISTER NO : 212221230117
 
 ```
 ```
